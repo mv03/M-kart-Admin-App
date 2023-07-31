@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "946779262713",
+    "project_id": "mkartadminapp",
+    "storage_bucket": "mkartadminapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946779262713:android:e6edb08032d08b6dd05c28",
+        "android_client_info": {
+          "package_name": "com.example.m_kartadminapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "946779262713-bpju7h7p0v508sslb6gttmi1podo7b6f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDug_xSnvvuQHWCgK8VkByX57jGXK2hNsU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "946779262713-bpju7h7p0v508sslb6gttmi1podo7b6f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
